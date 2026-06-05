@@ -34,6 +34,9 @@ Strands Labs is the experimental arm of [Strands Agents](https://github.com/stra
 | **[robots](https://github.com/strands-labs/robots)** | Control robots with natural language through Strands Agents - integrates NVIDIA GR00T and LeRobot |
 | **[robots-sim](https://github.com/strands-labs/robots-sim)** | Simulated environments for robot agent evaluation and reinforcement learning |
 | **[ai-functions](https://github.com/strands-labs/ai-functions)** | Python functions powered by AI agents - with runtime post-conditions for reliable agentic workflows |
+| **[benchmark-harnesses](https://github.com/strands-labs/benchmark-harnesses)** | Strands-based agents and harnesses for agentic benchmarks |
+| **[harness-optimizer](https://github.com/strands-labs/harness-optimizer)** | A framework for optimizing LLM agent harnesses through tunable Formulas - dynamically enhancing the agent and improving those Formulas with optimizers based on collected rollout trajectories |
+| **[pywebrtc-audio](https://github.com/strands-labs/pywebrtc-audio)** | Python bindings for WebRTC's audio processing pipeline - noise suppression, echo cancellation, automatic gain control, and voice activity detection via pybind11 |
 
 ---
 
